@@ -1,8 +1,6 @@
 # 👋 Hey there, I'm Minh!
 Full-Stack AI Engineer building production-grade RAG, Knowledge Graph, and Multi-Agent systems from Hanoi, Vietnam.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-trinhminh11.github.io-informational?style=flat&logo=githubpages&color=222222)](https://trinhminh11.github.io/)
-
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
 ![PyTorch](https://img.shields.io/badge/ML-PyTorch-informational?style=flat&logo=pytorch&color=EE4C2C)
 ![LangChain](https://img.shields.io/badge/AI-LangChain-informational?style=flat&logo=langchain&color=1C3C3C)
@@ -23,7 +21,9 @@ I specialize in taking AI from prototype to production — replacing costly lega
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trinhminh11&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trinhminh11&layout=compact&theme=default&hide_border=true&langs_count=6" height="165" />
-</p>
+<div align="center">
+  <h3>🌐 Check out my portfolio</h3>
+  <a href="https://trinhminh11.github.io/">
+    <img src="https://img.shields.io/badge/trinhminh11.github.io-%E2%86%92%20Visit%20Now-222222?style=for-the-badge&logo=githubpages&logoColor=white" />
+  </a>
+</div>
